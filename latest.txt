@@ -1,1 +1,1 @@
-https://github.com/Pureaznangel/ShopeeTool 1.0.3.0 cmVtb3RlSGFzaA==
+1.0.3.0 https://github.com/Pureaznangel/ShopeeTool cmVtb3RlSGFzaA==
