@@ -1,17 +1,15 @@
 {
-  "ok": [
-    {
-      "checkoutid": 145186503232604,
-      "timestamp": 1691487303,
-      "orderids": [
-        145186503234725
-      ],
-      "navigation_info": {
-        "type": 1,
-        "data": {}
-      }
+  "ok": {
+    "checkoutid": 145186503232604,
+    "timestamp": 1691487303,
+    "orderids": [
+      145186503234725
+    ],
+    "navigation_info": {
+      "type": 1,
+      "data": {}
     }
-  ],
+  },
   "fraud": {
     "error_msg": "Thanh toán không thành công F11: Bạn không thể thanh toán do tài khoản có dấu hiệu bất thường. Vui lòng tham khảo và tuân thủ các Điều Khoản Shopee.",
     "error": "error_fraud"
