@@ -1,5 +1,5 @@
 {
-  "ok1": {
+  "ok": {
     "checkoutid": 145186503232604,
     "timestamp": 1691487303,
     "orderids": [
@@ -14,7 +14,7 @@
     "error_msg": "Thanh toán không thành công F11: Bạn không thể thanh toán do tài khoản có dấu hiệu bất thường. Vui lòng tham khảo và tuân thủ các Điều Khoản Shopee.",
     "error": "error_fraud"
   },
-  "ok": {
+  "mismatch": {
     "error_msg": "Một số sản phẩm trong giỏ hàng vừa được cập nhật, bạn vui lòng kiểm tra giỏ hàng và thử lại.",
     "error": "error_payable_mismatch"
   }
