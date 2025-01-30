@@ -1,0 +1,12 @@
+**Version 2025.1.1**  
+Released Tuesday, December 31, 2024
+Bug fixes and improvements:  
++ Rút gọn code, giảm dung lượng bộ nhớ sử dụng.  
++ Cải thiện trực quan giao diện sử dụng/cài đặt.  
++ Hỗ trợ sử dụng mã FSV:  
+- Sử dụng mã FSV độc lập (không kết hợp với Shopee voucher hoặc Shop Voucher).  
+- Kết hợp sử dụng FSV với Shopee voucher (is_platform_voucher = True) hoặc Shop Voucher (is_platform_voucher = False).  
+- Sử dụng FSV được khi mua nhiều sản phẩm từ 1 shop (checkout_all = True).  
+(!) Bắt buộc phải có device_sz_fingerprint, nhập link mã FSV qua menu 401.
+
+…
